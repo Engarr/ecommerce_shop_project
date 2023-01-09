@@ -1,0 +1,16 @@
+.layout {
+	padding: 10px;
+}
+.main-container {
+	max-width: 1400px;
+	margin: auto;
+	width: 100%;
+}
+
+
+.navbar-container {
+	display: flex;
+	justify-content: space-between;
+	margin: 6px 18px;
+	position: relative;
+}
